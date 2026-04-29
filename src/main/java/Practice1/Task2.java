@@ -34,8 +34,8 @@ public class Task2 {
                 System.out.println("Меньше");
             } else {
                 System.out.println("Верно");
-                break;
             }
+            break;
         }
     }
 }
